@@ -69,8 +69,8 @@ I'm capable of using this:
 
 ---
 <div align="center">
-### 🤝 Thanks for Stopping By!  
-Let's connect & build something awesome! 🚀✨  
+<h3>🤝 Thanks for Stopping By!</h3>  
+<p>Let's connect & build something awesome! 🚀✨</p>  
 
   <img src="https://raw.githubusercontent.com/Adri-Sapta/Adri-Sapta/main/zzz-belle.gif" width="300"/>
 </div>
