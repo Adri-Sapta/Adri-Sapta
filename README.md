@@ -67,10 +67,10 @@ I'm capable of using this:
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AdriSaptaF&layout=compact&theme=dark)
 
-
+---
+<div align="center">
 ### 🤝 Thanks for Stopping By!  
 Let's connect & build something awesome! 🚀✨  
 
-<div align="center">
   <img src="https://raw.githubusercontent.com/Adri-Sapta/Adri-Sapta/main/zzz-belle.gif" width="300"/>
 </div>
