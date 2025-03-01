@@ -1,7 +1,8 @@
 # Hi there! 👋
 
+<img src="https://raw.githubusercontent.com/Adri-Sapta/Adri-Sapta/main/wuthering-waves-jinhsi.gif" width="400"/>
+
 Welcome to my GitHub profile! Here, you'll find a collection of projects, repositories, and contributions that reflect my interests, skills, and professional journey.
-<img src="https://tenor.com/view/wuthering-waves-jinhsi-gif-wuwa-wuthering-gif-8670162926558526947" width="400"/>
 ---
 
 ## 🧑‍💻 About Me
