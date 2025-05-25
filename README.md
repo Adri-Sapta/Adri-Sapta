@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://github.com/Adri-Sapta/Adri-Sapta/blob/main/banner-github.png" alt="Banner" />
+</p>
+
 # Hi there! 👋
 
 <div align="center">
